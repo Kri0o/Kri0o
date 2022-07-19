@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning
 
-![Untitled-1](https://user-images.githubusercontent.com/102413282/179757802-e3eb21f8-2c89-47ca-a7e0-be40821b17c9.png)
+![Untitled-3](https://user-images.githubusercontent.com/102413282/179757958-c06b8f1b-cdf6-47fc-af20-8d7496a4bf05.png)
+
 
 
