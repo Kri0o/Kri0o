@@ -3,7 +3,5 @@
 
 - 🌱 I’m currently learning
 
-![pngegg](https://user-images.githubusercontent.com/102413282/179756818-9af3d792-b12d-418a-a1f8-a9a7faa51a5b.png =250x250)
+![Untitled-1](https://user-images.githubusercontent.com/102413282/179757603-8a9be76c-e008-4b44-bbae-80a6c9fada7e.png)
 
-
-<img src="https://user-images.githubusercontent.com/102413282/179756818-9af3d792-b12d-418a-a1f8-a9a7faa51a5b.png" width="250" height="250">
