@@ -1,7 +1,7 @@
 <p align="center">
     Hi there 👋, I'm Ludovic Presle
     <br>
-    Junior Developer - Fullstack Javascript
+    Fullstack Javascript
 </p>
 <hr style="border:2px solid gray">
 
