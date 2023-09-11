@@ -29,10 +29,6 @@ I know
   <img src="https://user-images.githubusercontent.com/102413282/179761195-c146babd-f55c-4955-9370-5dc66687e284.png">
 </p>
 <p align="center">
-  <img src="https://ww1.freelogovectors.net/wp-content/uploads/2023/02/react-logo-freelogovectors.net_.png?lossy=1&w=2560&ssl=1">
-</p>
-
-<p align="center">
 <img src="https://user-images.githubusercontent.com/102413282/179765533-db4b496b-17d5-496d-90b5-a5b7c8286044.png">
 </p>
 
