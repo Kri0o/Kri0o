@@ -3,11 +3,17 @@
     <br>
     Fullstack Javascript
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ludovic-presle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:ludovic.presle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 <hr style="border:2px solid gray">
 
 <p align="center">
 :construction: I’m currently learning
     </p>
+    <br>
     <p align="center">
 <strong> FRONT-END Languages</strong>
     </p>
@@ -16,6 +22,7 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="100">
 </p>
+<br>
     <p align="center">
 <strong>BACK-END Languages</strong>
     </p>
@@ -29,6 +36,7 @@
 <p align="center">
  
 </p>
+<br>
    <p align="center">
 <strong>WORKING environment</strong>
     </p>
