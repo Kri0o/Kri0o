@@ -21,6 +21,8 @@
   <img src="https://user-images.githubusercontent.com/102413282/179758713-f40c6d38-17e8-442d-b58d-bbbf32270268.png">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="100">
+     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="140">
+    
 </p>
 <br>
     <p align="center">
@@ -29,8 +31,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" width="125">
-    <img src="https://img.shields.io/badge/postgresql-white?logo=postgresql" width="120">
-    <img src="https://img.shields.io/badge/sequelize-grey?logo=sequelize&logoColor=%2352B0E7" width="115">
+    <img src="https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=%2352B0E7" width="135">
+    <img src="https://img.shields.io/badge/sequelize-grey?style=for-the-badge&logo=sequelize&logoColor=%2352B0E7" width="120">
 </p>
 
 <p align="center">
