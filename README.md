@@ -19,8 +19,8 @@
     </p>
 <p align="center">
   
-<img src="https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5&logoColor=%23E34F26" width="100">
-    <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="145">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="102">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="145">
     <img src="https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=%231572B6" width="88">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="100">
