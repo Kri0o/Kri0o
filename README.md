@@ -7,6 +7,7 @@
 
 <p align="center">
 :construction: I’m currently learning
+    Front-end
     </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102413282/179758713-f40c6d38-17e8-442d-b58d-bbbf32270268.png">
