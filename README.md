@@ -18,7 +18,10 @@
 <strong> FRONT-END Languages</strong>
     </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102413282/179758713-f40c6d38-17e8-442d-b58d-bbbf32270268.png">
+  
+<img src="https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5&logoColor=%23E34F26" width="100">
+    <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="145">
+    <img src="https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=%231572B6" width="88">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="100">
      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="140">
