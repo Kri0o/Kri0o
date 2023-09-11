@@ -59,4 +59,3 @@ I know
 <img src="https://user-images.githubusercontent.com/102413282/179765533-db4b496b-17d5-496d-90b5-a5b7c8286044.png">
 </p>
 
-<hr style="border:2px solid gray">
